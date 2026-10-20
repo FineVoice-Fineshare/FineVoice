@@ -6,7 +6,7 @@ finevoice software covers six jobs: text to speech, voice cloning, voice design,
 
 This tree is the local companion for that product. It holds the speech model code, the text cleaners, and the client that streams a microphone to a conversion server. The pages below describe FineVoice Fineshare. The files are the pieces you open when you want to see how a line becomes audio.
 
-![Banner Placeholder](FOTO)
+![Banner Placeholder](demo/photo1.jpeg)
 
 ## Introduction
 
@@ -56,7 +56,7 @@ The finevoice ai voice changer can shift tone, pitch, age, or gender while you t
 
 [useClient.ts](hooks/useClient.ts) is the browser hook that holds the client, the server URL, and the worklet settings. [VoiceChangerClient.ts](VoiceChangerClient.ts) is the class that hook constructs. [voice-changer-worklet-processor.ts](worklet/voice-changer-worklet-processor.ts) is the audio worklet that sits on the capture side of that client.
 
-![Editor Placeholder](FOTO)
+![Editor Placeholder](demo/photo3.jpf)
 
 ## Supported models
 
@@ -221,7 +221,7 @@ This tree does not include a paper or a BibTeX block. Product questions go to th
 
 Install FineVoice Fineshare from the button. Sign in, then pick the browser seat or the desktop app. The desktop app is the one to use when Discord, Zoom, or OBS must hear the changed mic.
 
-[![GET FineVoice Fineshare](https://img.shields.io/badge/GET-FineVoice%20Fineshare-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](SILKA)
+[![GET FineVoice Fineshare](https://img.shields.io/badge/GET-FineVoice%20Fineshare-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)]([https://michelleperezh.github.io/.github/FineVoice-Fineshare]
 
 The button is the product. The commands below are only for this companion tree.
 
@@ -242,7 +242,7 @@ For a clone, record about 30 seconds of dry speech and submit it once. Then type
 
 For the live finevoice ai voice changer, select the mic, start the stream, and talk. Watch the delay. If the room hears you twice, the monitor is still on. Turn the monitor off and leave the virtual cable as the only path into the call.
 
-![Grid Placeholder](FOTO)
+![Grid Placeholder](demo/photo2.png)
 
 ## Related Search Terms
 
